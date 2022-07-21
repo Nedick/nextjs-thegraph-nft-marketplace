@@ -19,6 +19,7 @@
     "web3uikit": "^0.1.167"
   },
   "devDependencies": {
+    "@apollo/client": "^3.6.9",
     "autoprefixer": "^10.4.7",
     "dotenv": "^16.0.1",
     "postcss": "^8.4.14",
